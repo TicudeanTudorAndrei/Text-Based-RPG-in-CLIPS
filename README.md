@@ -16,7 +16,7 @@ The game is built from **eight CLIPS modules**, each responsible for major gamep
 - Run CLIPS using "CLIPSIDE.exe"
 - Make sure to set the correct folder path (for example: E:\Clips\rpg) via Environment -> Set Directory
 - Write ```(batch startgame.clp)```
-- Press enter
+- Press "Enter"
 - If everyhting goes well you should see:
 ```clips
 CLIPS>  (batch startgame.clp)
